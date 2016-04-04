@@ -8,7 +8,7 @@ import Chapter2.*;
 public class Main {
 
     public static void main(String[] args){
-        startE2_8();
+        startE2_11();
     }
 
     public static void startE2_1(){ new Exercise2_1();};
@@ -19,9 +19,9 @@ public class Main {
     public static void startE2_6(){ new Exercise2_6();};
     public static void startE2_7(){ new Exercise2_7();};
     public static void startE2_8(){ new Exercise2_8();};
-    //public static void startE2_9(){ new Exercise2_9();};
-    //public static void startE2_10(){ new Exercise2_10();};
-    //public static void startE2_11(){ new Exercise2_11();};
+    public static void startE2_9(){ new Exercise2_9();};
+    public static void startE2_10(){ new Exercise2_10();};
+    public static void startE2_11(){ new Exercise2_11();};
     //public static void startE2_12(){ new Exercise2_12();};
     //public static void startE2_13(){ new Exercise2_13();};
     //public static void startE2_14(){ new Exercise2_14();};
